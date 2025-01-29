@@ -54,6 +54,7 @@ fi
 # ========================
 echo "5. Excluindo arquivos baixados recentemente..."
 rm -rf /home/pi/Downloads/*
+rm -rf /home/pi/Pictures/*
 
 # ========================
 # 6. Esvaziar a Lixeira
